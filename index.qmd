@@ -1,14 +1,29 @@
 ---
-title: "index"
-format: revealjs
-editor: visual
+title: "SD法"
+subtitle: "セマンティック･ディファレンシャル法"
+format: 
+ revealjs:
+    idth: 1600
+    height: 900
+    slide-number: true
+    embed-resources: true
 ---
 
-## ○セマンティック･ディファレンシャル法（SD法）とは
+## 自己紹介
 
-Osgoodら(1957)が開発した測定方法．
+-   八斗啓悟（はっとけいご）←日本に20人ほどの苗字
 
-[さまざまな概念]{.underline}に対して個人の持つ[心理学的意味]{.underline}を[測定するための方法．]{.underline}
+-   千葉県四街道市出身
+
+-   公認心理師・臨床心理士
+
+-   好きなもの：ポケモン，BUMP，ランニング
+
+## SD法とは
+
+Osgoodら(1957)が開発した測定方法
+
+[さまざまな概念]{.underline}に対して個人の持つ[心理学的意味]{.underline}を[測定するための方法]{.underline}
 
 ・[心理学的意味]{.underline}＝内包的･情緒的な意味
 
@@ -18,8 +33,430 @@ Osgoodら(1957)が開発した測定方法．
 
 　例）紅葉→(連想)秋，ドライブ，山
 
-→(情緒的意味)美しい，静かな，落ち着いた
+　　　(情緒的意味)美しい，静かな，落ち着いた
+
+## SD法とは
+
+-   辞書的な意味とは違う
 
 　外延的意味：指定的，辞書的意味を指す．
 
-　　　　　　　例）紅葉→秋になって木々の花が赤くなること．またはその葉．
+　例）紅葉→秋になって木々の花が赤くなること．またはその葉．
+
+## 対象となる概念
+
+さまざまなものに対して使われる
+
+例）言葉，シンボル，感覚刺激(色･形･音など)の感情効果，人物，団体，商品など
+
+　　イメージの調査（企業イメージ，商品イメージなど）
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-Y7rgTcW5NdDkxvwMW4Gdj2Q3G3lZVBvHHC10A3T_Iwxj0257NbTbdhvWKFOqn7nxXw6-V4P_0VFuJZ_5cQSDPxlazFKTD9N-d1A0IrX0k7LoaVpG3X9IwQ48H0zfXTJOT1JntRr0Lq3o/s400/onepiece01_luffy.png){fig-align="center"}
+
+## 測定方法
+
+両極に反対語となる２つの形容詞(形容詞対)を配置した形の評定尺度を多数用いる多尺度評定法．通常５段階か７段階の尺度
+
+　よいー｜ー｜ー｜ー｜ー｜ー｜ー｜ー悪い
+
+美しいー｜ー｜ー｜ー｜ー｜ー｜ー｜ー汚い
+
+明るいー｜ー｜ー｜ー｜ー｜ー｜ー｜ー暗い
+
+## 基本的な３つの因子
+
+Osgoodらの研究(1957)は異なる対象を年齢，性別，国籍，使用言語が異なる様々な評定者に評定させ，そのデータから共通の意味次元（Evaluation，Potency，Activity）を抽出した
+
+1\) 評価（evaluation,E）よい－悪い　で代表される
+
+2\) 力量（potency,P）大きい－小さい　で代表される
+
+3\) 活動（activity,A）速い－遅い　で代表される
+
+しかし,Osgoodらの主張に対する反論も多く，因子は対象とする概念や測定する民族によって意味次元が異なることもあることが指摘されている
+
+## この実習で行うこと
+
+**目的**：SD法を用いてある概念のイメージの評定を行い，その結果を因子分析してイメージを記述するための基本的尺度を抽出する．また，評定結果に基づいてデモグラフィック特性によるイメージの差を検討する．
+
+## 実習日程：
+
+**1日目**：SD法の説明。対象となる概念を決定する。グループワークにより，対象となる概念のイメージを構成する下位概念を決定する。決定した下位概念を表す形容詞対を評定尺度として選択する．評定用紙の作成　対象語1個／形容詞対12個（宿題：評定の実施：1人3～10人）
+
+**2日目**：評定結果の処理。データ入力。平均値の算出，相関係数の算出
+
+**3日目**：因子分析について，項目分析について説明。因子分析の実施
+
+**4日目**：因子分析について再確認，*ｔ*検定の実施。レポート作成について
+
+## もう少しSD法説明
+
+**心理学の目的**：行動の観察を通じてその背後に仮定されている「こころ」の働きを理解し，予測し，制御すること．行動の科学とも呼ばれる。
+
+**心理学の一般的方法**：観察，調査，検査，実験などの方法でデータを収集し，それらを主に統計的手法を用いて分析すること。
+
+いくつかの変数の間の関係について理解するために必要となる手続きが**測定**である．
+
+## 測定とは
+
+対象が持つ属性に対して，ある決められた規準にしたがって数値を与えること。
+
+その際に用いられる「ものさし」（数学的構造）を**尺度**という。
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbmAquiuU_eyzNiqoklJyMrxZnbLEgLkXfFkS1bPRZ8HGDMjuZFKq1gNlCWky6zXIOD4D95IUaq7b6JvZvtnPdVsV9lqy7yZ7d-1QX-F1Utaa210s_3QEtessHBiLCbGOY9e6NR35Gzgtv/s1600/bunbougu_jougi.png){fig-align="center" width="384"}
+
+## 測定の対象
+
+人間その他の生物，物体，現象などその対象が持つ特性の一つ一つである属性．
+
+例）(人間の)身長，体重，知能，性格など
+
+　　(車の)スタイル，最高速度，燃費など
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdEH2Fx9pccrlsh-00yBIA_PjJ78EhpnkZheOB-G3b8X4DzNZUMKZxYAnDaVtyVS2kZYgfsCFs_NZN-wmN9UWkpl5r705MDZQyQy8oZ4vPYw60K8PbxGT_EWsph8ILECb4e1Wy_uXHmaau/s800/kenkoushindan_taijuu_digital_boy.png){width="337"}
+
+## 測定の規準
+
+物事を測定するための「ものさし」＝尺度．４つの基本的なタイプ。
+
+### 4つの尺度水準
+
+-   名義尺度
+
+-   順序尺度
+
+-   間隔尺度
+
+-   比例尺度
+
+## 名義尺度
+
+異なる対象を互いに区別するために用いられる尺度。
+
+量的な意味を持たない．加算，平均は無意味。
+
+例)　性別（男性：１，女性：２）
+
+　　就業形態（専業主婦：１，自営業：２，フルタイム：３）
+
+::: callout-important
+## 計算もできなければ，数字自体に何も意味はない
+:::
+
+## 順序尺度
+
+対象の持つ属性に対して順序づけするために用いられる尺度。
+
+数値の大小関係は順序関係を示すが，等間隔であることは保証されない。
+
+平均値は求められない，中央値などを使う。
+
+　例)プロ野球の球団の順位，徒競走の順位
+
+::: callout-important
+## 例えば1位と2位でもとても大きな差の時もあれば，僅差の時もある
+:::
+
+## 間隔尺度
+
+測定値間の順序だけでなく，その差の大きさにも意味がある尺度。
+
+ただし，[原点および単位は任意]{.underline}。平均値や分散を求めることができる。
+
+例)　温度　(ゼロ度＝存在する)
+
+　　→0℃は人間が任意に決めたものだから
+
+## 比例尺度
+
+[原点（０）が存在]{.underline}し，差に加え比が意味を持つ。
+
+比例尺度のゼロは何もないことを示す。
+
+例)長さ，重さ，反応時間
+
+::: callout-tip
+## 考えてみよう
+
+今回使うSD法で測定する尺度は何尺度といえるだろうか？？？
+:::
+
+## 本当に等間隔？？
+
+例えば，
+
+あなたは几帳面ですか？
+
+1.  とてもあてはまる
+
+2.  少しあてはまる
+
+3.  どちらともいえない
+
+4.  あまりあてはまらない
+
+5.  全くあてはまらない
+
+    →1と2の間隔と2と3の間隔は同じ？
+
+    ::: callout-important
+    ## 心理学は等間隔性を仮定している！
+    :::
+
+## 早速測定したいものを考えよう
+
+**方法**
+
+### 1.　評定対象概念の選定
+
+1.  概念を選定する
+
+2.  その概念のイメージを構成する下位概念についての仮説を決定する
+
+### 2．決定した下位概念を表す形容詞対の選択
+
+### 3．評定用紙の作成（フォーム？）
+
+### 4．評定の実施
+
+## 1.　評定対象概念の選定
+
+1．概念を選定する
+
+概念を選び出す時の基準
+
+① 多義的な対象を避ける（「はし」，「かき」などは評定者が異なった刺激に対して反応する可能性がある）
+
+② 評定者がよく知っているものを選ぶ。 調査対象者をどういう集団にするかということも考慮して決定する
+
+③ 調査対象者をどういう集団にするかということも考慮して決定する
+
+::: callout-tip
+## どうせなら面白いものにしよう
+
+デモグラフィック変数（男女など）で比較することも踏まえて考えてみよう
+
+男女でイメージが違いそうなのはどういうものか
+:::
+
+## 1.　評定対象概念の選定
+
+2．その概念のイメージを構成する下位概念についての仮説を決定する
+
+例）自動車：デザイン性，経済性，安全性，機能性
+
+　　地下街景観のデザイン評価：快適美的因子，安定感因子
+
+　　服装色彩選択：前衛的な意識，若返り意識，衝動意識
+
+## 2．決定した下位概念を表す形容詞対の選択
+
+形容詞対選定の基準（大山ら（1971）より抜粋）
+
+①  多義的な形容詞は避ける．
+
+②  適切な反対語がない場合，あるいは反対語が他の語の反対語と共通してしまう場合にはその形容詞を用いない．
+
+③  ほとんど意味内容が違わない形容詞はひとつにまとめる．
+
+④  専門家が特別な意味に用いるような語は避ける．
+
+⑤  抽象的,論理的な形容詞よりも，わかりやすい感覚的･直感的な形容詞を選択する．
+
+## 2. 決定した下位概念を表す形容詞対の選択（続き）
+
+⑥  調査目的が推測されてしまうようなものは用いない．
+
+⑦  過去の研究で用いられた語を生かす（比較のための資料となる）
+
+⑧  類似した語が集中しないように，できるだけ変化に富ませる．
+
+⑨  価値に関する語に偏らないようにする．
+
+⑩　調査目的に直接関係がなくても，SD法の基本尺度とされているものは入れる．
+
+[形容詞対の例]{.underline}
+
+評価：立派なーひどい，役立つー役立たぬ，良いー悪い
+
+力量：大きいー小さい，力のあるー力のない，強いー弱い
+
+活動：早いー遅い，騒がしいー静かな，若いー老いた
+
+## 形容詞対の例
+
+[日本におけるSD法による研究分野とその形容詞対尺度構成の概観](https://www.jstage.jst.go.jp/article/jjep1953/33/3/33_253/_article/-char/ja/)\
+\
+こちらの論文のよく用いられる形容詞対も参考にしてみよう
+
+## 3．評価用紙の作成
+
+評定用紙作成の注意点
+
+①提示順序の効果をなくすために，順序を変化させることが望ましい．
+
+②｢好きー嫌い｣｢良いー悪い｣などの評価的な意味を含む形容詞対を最初に配置しない．
+
+③ポジティブな意味を持つ形容詞が常に右,あるいは左にならないように適度なバランスを考えて配置する．
+
+④意味的に類似した形容詞を連続しておかない．
+
+⑤今回は5段階尺度を用いる．（中央を｢どちらともいえない｣とし，それぞれ両端に向かって「やや」「ひじょうに」という限定詞を記入しておく）
+
+## 4．評定の実施
+
+〈実施手順〉
+
+(1)集団検査でも，個人検査でもよい．
+
+(2)実験者は評定用紙を配布し，評定者名を記入させる．
+
+## 4．評定の実施
+
+(3)評定者に与える教示は次の通りである．
+
+　　「これから，評定対象に対する第一印象または感じをできるだけ速く，各尺度上に評定してもらいます．まず，評定対象を頭に浮かべ，それに対するイメージとして，各尺度の形容詞に対する５段階の評定の中で，自分の印象と同じかまたは近いものはどれかを探して，当てはまる段階の縦線を○で囲んでください．正しい答えというものはないので，思ったとおりに答えてください．一度評定しおえたものは見直さないようにして上から順に先に進んで下さい．何か質問がありますか．｣
+
+(4)評定者から質問を受けたあと，実験者は４～５秒に１対の割合で形容詞対を読み上げていく．最後に，記入漏れがないかどうかを確かめて終了する．
+
+## 結果の整理
+
+１．データ入力（オンラインで記入してしまいましょう）
+
+各評定者の尺度評定結果を得点化し，データ表に入力する．
+
+<span style="color: gray;">その際，
+
+①目盛りの左から１～５点を割り当てて，赤ボールペンなどで記入する．
+
+②方向が逆向きの尺度は，６から引いて点を元に戻す．
+
+③データ表に入力する．</span>
+
+## 結果の整理（平均値）
+
+２.平均値の算出（エクセルで）
+
+データ表の全評定者の得点を尺度（項目）ごとに平均し，小数以下２桁目を四捨五入して小数第１位まで求め，尺度(項目)別の平均評定一覧表に記入する．
+
+## 結果の整理（項目間相関）
+
+３.尺度間の相関を算出
+
+各尺度(項目)の平均評定に基づいて，尺度間の相関を算出し，「実験とテスト＝心理学の基礎実習編」p.78の表Ⅲ-6-2のような表にまとめる．相関は，小数以下３桁目を四捨五入して小数第２位まで求める．
+
+## 相関とは
+
+相関があるとは？
+
+ある変数Aが高い時に変数Bが低い，または高いなどの，関連性があるとき
+
+正の相関：変数Aが高い（低い）時に変数Bが高い（低い）
+
+負の相関：変数Aが低い（高い）時に変数Bが高い（低い）
+
+相関係数は‐1～+1の値をとる
+
+## 相関係数の大きさの目安（あくまで目安）
+
+　　　　　　　  0 ≦ \|r\| ≦  .2 →ほとんど相関無し
+
+　　　　　　　 .2 ＜ \|r\| ≦  .4　 →弱い相関あり
+
+　　　　　　　 .4 ＜ \|r\| ≦  .7 →比較的強い相関あり
+
+　　　　　　　 .7 ＜ \|r\| ≦ 1.0　→強い相関あり　　　　
+
+## 結果の整理（項目分析）
+
+４．項目分析の実施
+
+項目分析とは：
+
+測定値の合計を算出する前提として，それぞれの質問項目が等質であることを確かめる分析。
+
+[G-P分析（上位―下位分析）]{.underline}
+
+総得点の高い者から順に並べ，上位群，下位群を全実験参加者の25％程度ずつ選び出す。この上位群，下位群それぞれについて各項目の平均値を算出し，その差を*t*検定によって検討。有意差の得られなかった項目は他項目との等質性が疑わしいものと判断。
+
+## 結果の整理（項目分析）
+
+[項目－総得点相関(I-T相関)]{.underline}
+
+通常，項目得点とその項目以外の全項目の合計値との相関係数が計算される．これが十分に高ければ，その項目は実験参加者の識別力が高いと判断される
+
+## 結果の整理（因子分析）
+
+尺度の得点に基づいて因子分析を行い，尺度の基本的因子を抽出し解釈する．
+
+因子分析の詳細はまた後で説明
+
+## 結果の整理（信頼性の検討）
+
+信頼性とは：
+
+尺度の得点が，どれくらい安定しているか。
+
+例えば，毎回違う値を出してくる体重計は信頼できる？？？
+
+■再検査法，折半法，α係数などの方法があるが，今回は，因子ごとにクロンバックのα係数を算出する
+
+## クロンバックのα係数
+
+◇クロンバックのα係数とは：
+
+尺度の信頼性の検討の方法のひとつ。尺度を構成している項目が同一のものを測定しているという意味で項目の均質さを示す。尺度の内的一貫性または内的整合性といわれる
+
+一般に，.70以上であれば尺度の内的整合性が高いと判断される．ただし，項目数などによりこの値は異なるので，明確な基準があるわけではない。
+
+## クロンバックのα係数
+
+☆α係数を算出する際の注意点
+
+ある因子を構成する項目の因子負荷量がマイナスの値の場合，α係数を算出する前にこの値を逆転させる処理が必要。
+
+## 結果の整理
+
+７．各対象概念の尺度別平均得点を算出してプロフィールを描く。
+
+８．デモグラフィック特性による*ｔ*検定の実施
+
+◇因子得点とは
+
+各調査対象者が各因子にどのくらいの得点を持つかを示す．全調査対象者の因子得点は標準化されており，平均は０，SDは1.0である。
+
+## 因子分析について
+
+どんな時に因子分析をつかうのか？
+
+-   質問項目の関係を整理し，共通の要因を見つけたいとき
+
+-   新しい尺度を作りたいとき
+
+## 因子分析について
+
+[![NTTCom Online Marketing Solutions Corporationより](data:image/png;base64,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){width="520"}](https://www.nttcoms.com/service/research/dataanalysis/factor-analysis/)
+
+## 因子分析の種類
+
+-   探索的因子分析
+
+    観測変数間の相関関係がいくつの因子によって説明ができるのか。
+
+    各因子がどの項目内容をお反映しているのかを**探索的に**調べる
+
+-   確認的因子分析
+
+　　因子数が既知の尺度に対して使うもの（今回は割愛）
+
+## 考察について
+
+(1)　因子分析の結果から，対象概念のイメージを記述するための基本的な尺度は，事前に想定した下位概念と一致するといえるか否かを検討する．想定どおりであれば，基本尺度を構成する形容詞対の間で相関が高くなり，他の基本尺度との相関は低くなると考えられる．このことを相関表から確認する．
+
+(2)　予想どおりにならなかった場合は，対象概念のイメージはどのような下位尺度群から構成されていたか，何故そのような結果が得られたのか考察する．
+
+## 考察について
+
+(3)　デモグラフィック特性間でどのようなイメージの差があったか，それはなぜかについて考察する．
+
+(4)　以上の考察を踏まえて，｢対象概念がどのようなイメージをもたれているか｣について解釈する．序論で立てた仮説は検証されたか，されなかった場合にはどのように異なったかを検討する．
