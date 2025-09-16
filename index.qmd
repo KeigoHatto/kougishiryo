@@ -239,6 +239,46 @@ Osgoodらの研究(1957)は異なる対象を年齢，性別，国籍，使用�
 男女でイメージが違いそうなのはどういうものか
 :::
 
+## 完成形のイメージ
+
+[去年質問紙の例](https://bunkyouniv-my.sharepoint.com/:x:/g/personal/k_hatto5834_bunkyo_ac_jp/EXaVhCeu4f5HhZsc8pcPQc8B9grgrTciRWMmf_P_ybUc3Q?e=Eb3wd5)
+
+飲食チェーン店という概念にした例
+
+10個くらい下位概念がないといけない
+
+マック，ケンタッキー，サイゼリヤ
+
+##  概念の例
+
+去年までの例
+
+-   ポケモン
+
+-   鬼滅の刃
+
+-   飲食店チェーン
+
+## アイデア出し
+
+[miroのボード](https://miro.com/welcomeonboard/blVVNCtRNFhTVFNqTjczQUd0a0VSODcyS2I2M2hBSGlXY251UWZrcHVVV21vdHpRaTk4ZTRCY1F1SjJrK0QyTU1KK2svTzlTUDY4bjJWTFJzVnFxYlRJY1FPTm9zKzBQMFB2VlJ3M3I0TkVrV3JVOU1za3pObmw5bDJWbEU2bFVBS2NFMDFkcUNFSnM0d3FEN050ekl3PT0hdjE=?share_link_id=751778421895)
+
+ここに入って，とにかく意見を出しましょう。
+
+## その概念をあらわすものを10個選出
+
+例えば
+
+ジブリであれば各映画作品
+
+ポケモンであれば，各ポケモンたち
+
+::: callout-warning
+## 偏らないように注意！
+
+ディアルガ，パルキア，ダークライ，アルセウス…みたいな感じで選んでいったら，イメージが偏ってしまう。根拠を持って選出しよう。例えば，人気ランキングとかから選出とか。
+:::
+
 ## 1.　評定対象概念の選定
 
 2．その概念のイメージを構成する下位概念についての仮説を決定する
@@ -275,7 +315,7 @@ Osgoodらの研究(1957)は異なる対象を年齢，性別，国籍，使用�
 
 ⑩　調査目的に直接関係がなくても，SD法の基本尺度とされているものは入れる．
 
-[形容詞対の例]{.underline}
+[形容詞対の例]{.underline}※ここにあるのは使う
 
 評価：立派なーひどい，役立つー役立たぬ，良いー悪い
 
@@ -303,6 +343,13 @@ Osgoodらの研究(1957)は異なる対象を年齢，性別，国籍，使用�
 
 ⑤今回は5段階尺度を用いる．（中央を｢どちらともいえない｣とし，それぞれ両端に向かって「やや」「ひじょうに」という限定詞を記入しておく）
 
+## 3．評価用紙の作成
+
+[調査用紙](https://bunkyouniv-my.sharepoint.com/:x:/g/personal/k_hatto5834_bunkyo_ac_jp/EYJRYMl4nF1Flc3E9J3crK8B8qrUiucnaoNH7uVoY6rGgA?e=BJsW3c)\
+ここに先ほど選んだものの写真等を1枚ずつ張る
+
+形容詞対もいれて，調査用紙を完成させる
+
 ## 4．評定の実施
 
 〈実施手順〉
@@ -310,6 +357,10 @@ Osgoodらの研究(1957)は異なる対象を年齢，性別，国籍，使用�
 (1)集団検査でも，個人検査でもよい．
 
 (2)実験者は評定用紙を配布し，評定者名を記入させる．
+
+調査をとったら，↓に記入すること
+
+[記入用紙](https://bunkyouniv-my.sharepoint.com/:x:/g/personal/k_hatto5834_bunkyo_ac_jp/EQfe6RxW37pMpIhYWuKkddoBkyTXiJ5DJOVzUlRJOSncdw?e=qfE3rD)
 
 ## 4．評定の実施
 
